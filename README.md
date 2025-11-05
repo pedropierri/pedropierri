@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🧑‍💻 18, brazilian dev<br>😼 luv coding<br>📚 i'm currently learning react</p>
+<p align="left">💻 18, brazilian dev<br>😼 luv coding<br>📚 i'm currently learning react</p>
 
 ###
 
