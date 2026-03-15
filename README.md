@@ -10,10 +10,6 @@
 
 ###
 
-<p align="left">💻 19, brazilian dev<br>😼 luv coding<br>📚 i'm currently learning react</p>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
